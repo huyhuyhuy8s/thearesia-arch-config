@@ -1,4 +1,3 @@
-antigravity
 aquamarine-git-debug
 catppuccin-gtk-theme-mocha
 cosmic-comp-git
@@ -48,7 +47,6 @@ v4l2-relayd-debug
 v4l2loopback-dc-dkms
 via-bin
 via-bin-debug
-visual-studio-code-bin
 walker
 walker-debug
 wlogout

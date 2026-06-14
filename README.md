@@ -18,6 +18,7 @@ Personal Arch Linux dotfiles and configuration backup.
 **Input:** fcitx5 (IME)  
 **File Manager:** dolphin (KDE)  
 **Editor:** neovim v0.12.3 (LazyVim)  
+**Browser:** zen  
 **AUR Helper:** yay, elephant
 
 ## Configs Included
@@ -62,20 +63,10 @@ Personal Arch Linux dotfiles and configuration backup.
 
 ## Packages
 
-- **Official:** `pkg-official-*.txt` (190 packages)
-- **AUR:** `pkg-aur-*.txt` (61 packages)
+- **Official:** `pkg-official-*.txt` (188 packages)
+- **AUR:** `pkg-aur-*.txt` (59 packages)
 - **Flatpak:** `pkg-flatpak-*.txt`
 - **npm globals:** `pkg-npm-*.txt`
-
-## Vision
-
-- **zen** (browser)
-- kitty (terminal)
-- neovim (editor)
-- Cursor (secondary editor)
-- Discord / Obsidian / Bruno
-- JetBrains IDEs, WebStorm
-- OBS Studio, Lutris
 
 ## Restore
 

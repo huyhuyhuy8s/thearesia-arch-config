@@ -1,4 +1,3 @@
-antigravity
 awww
 base
 base-devel
@@ -163,7 +162,6 @@ v4l2loopback-dc-dkms
 v4l2loopback-dkms
 via-bin
 vim
-visual-studio-code-bin
 vulkan-tools
 walker
 waybar
