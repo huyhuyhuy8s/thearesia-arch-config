@@ -1,0 +1,23 @@
+{
+  "skill_name": "junior-frontend",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a login form component in src/routes/(auth)/-components/LogInForm/ with email, password, and remember me checkbox. The form should have validation errors displayed inline.",
+      "expected_output": "Three files: index.tsx, type.d.ts, style.scss with proper conventions",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Create a hook for validating login form with Zod schema. The hook should export validate function and types.",
+      "expected_output": "hooks/useLogInForm.ts with validation logic",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Create a type definition for a user profile component that has name, email, avatar (optional), and role (optional). Export the types correctly.",
+      "expected_output": "type.d.ts with exports at beginning of each type",
+      "files": []
+    }
+  ]
+}

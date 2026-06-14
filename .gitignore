@@ -1,0 +1,17 @@
+# Private keys - never commit
+.ssh/
+.gnupg/
+.ssh
+
+# Caches & binaries - reinstallable
+.opencode/bin/
+.local/share/fonts/
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db

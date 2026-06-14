@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "defaultMode": "auto"
+  },
+  "enabledPlugins": {
+    "discord@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true
+  },
+  "theme": "auto",
+  "skipAutoPermissionPrompt": true
+}
