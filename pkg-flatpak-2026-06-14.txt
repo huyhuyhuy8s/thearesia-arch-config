@@ -1,4 +1,3 @@
-Google Chrome	com.google.Chrome	145.0.7632.159-1	stable	flathub	user
 Hyprland Settings	com.ml4w.hyprlandsettings	2.5.1	master	ml4w-repo	system
 OBS Studio	com.obsproject.Studio	32.1.0	stable	flathub	user
 Bruno	com.usebruno.Bruno	v3.1.4	stable	flathub	user
