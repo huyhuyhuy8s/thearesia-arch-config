@@ -15,3 +15,7 @@
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Credentials
+.claude/.credentials-json
+.claude/.last-cleanup
